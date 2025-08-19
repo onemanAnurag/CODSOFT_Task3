@@ -1,2 +1,1 @@
-# CODSOFT_Task3
 CALCUATOR
